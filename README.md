@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @asfer3031
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning react.js and firebase 
+- 👋 Hi, I’m Asbel Fernandez
+- 👀 I’m interested in Front-end web development
+- 🌱 I’m currently learning sveltekit and firebase 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me
 
